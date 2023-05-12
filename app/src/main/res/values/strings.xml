@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomDogs</string>
+    <string name="next_image">NEXT IMAGE</string>
+    <string name="error_message">Ошибка при загрузке изображения</string>
+</resources>
